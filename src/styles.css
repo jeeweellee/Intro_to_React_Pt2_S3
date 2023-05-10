@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+div button {
+  margin: 0.5rem;
+}
+
+button.on {
+  background-color: #7d3c98;
+  border: 2px solid #7d3c98;
+}
+
+button.off {
+  background-color: #1d8348;
+  border: 2px solid #1d8348;
+}
